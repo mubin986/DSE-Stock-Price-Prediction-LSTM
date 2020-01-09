@@ -1,4 +1,4 @@
-# DSE-Stock-Price-Prediction-LSTM
+# DSE Stock Price Prediction using LSTM
 SHASHADENIM stock price dataset collected from https://investing.com
 
 ## Prediction Result:
